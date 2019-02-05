@@ -1,0 +1,14 @@
+c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Test\bin\Debug\KolkoIKrzyzyk.Test.dll
+c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Test\bin\Debug\KolkoIKrzyzyk.Test.pdb
+c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Test\obj\Debug\KolkoIKrzyzyk.Test.csprojAssemblyReference.cache
+c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Test\obj\Debug\KolkoIKrzyzyk.Test.csproj.CoreCompileInputs.cache
+c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Test\obj\Debug\KolkoIKrzyzyk.Test.csproj.CopyComplete
+c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Test\obj\Debug\KolkoIKrzyzyk.Test.dll
+c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Test\obj\Debug\KolkoIKrzyzyk.Test.pdb

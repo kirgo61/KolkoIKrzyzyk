@@ -1,0 +1,13 @@
+﻿<Window x:Class="KolkoIKrzyzyk.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KolkoIKrzyzyk"
+        mc:Ignorable="d"
+        Title="KółkoIKrzyżyk" Height="450" Width="800">
+    <Grid>
+        <TextBox Width="100" Margin="50" Height="20" Text= "{Binding ElementName=Slid, Path=Value, Mode=OneWay}" ></TextBox>
+        <Slider Name="Slid" IsSnapToTickEnabled="True" Minimum="0" Maximum="100"></Slider>
+    </Grid>
+</Window>

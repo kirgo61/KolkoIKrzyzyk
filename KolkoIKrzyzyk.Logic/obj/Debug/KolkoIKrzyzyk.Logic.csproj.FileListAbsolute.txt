@@ -1,0 +1,6 @@
+c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Logic\bin\Debug\KolkoIKrzyzyk.Logic.dll
+c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Logic\bin\Debug\KolkoIKrzyzyk.Logic.pdb
+c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Logic\obj\Debug\KolkoIKrzyzyk.Logic.csprojAssemblyReference.cache
+c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Logic\obj\Debug\KolkoIKrzyzyk.Logic.csproj.CoreCompileInputs.cache
+c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Logic\obj\Debug\KolkoIKrzyzyk.Logic.dll
+c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Logic\obj\Debug\KolkoIKrzyzyk.Logic.pdb

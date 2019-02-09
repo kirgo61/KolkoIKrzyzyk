@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using KolkoIKrzyzyk.Logic;
 
 namespace KolkoIKrzyzyk
 {
@@ -23,6 +24,14 @@ namespace KolkoIKrzyzyk
         public MainWindow()
         {
             InitializeComponent();
+        }
+        private void ButtonClick(object sender, MouseButtonEventArgs e)
+        {
+
+        }
+        private void Btn_Reset_MouseLeftButtonDown(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

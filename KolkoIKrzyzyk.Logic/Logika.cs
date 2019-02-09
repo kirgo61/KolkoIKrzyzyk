@@ -8,5 +8,7 @@ namespace KolkoIKrzyzyk.Logic
 {
     public class Logika
     {
+      
+        
     }
 }

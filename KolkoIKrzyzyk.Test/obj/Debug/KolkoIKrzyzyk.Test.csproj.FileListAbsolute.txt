@@ -12,3 +12,5 @@ c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.
 c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Test\obj\Debug\KolkoIKrzyzyk.Test.csproj.CopyComplete
 c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Test\obj\Debug\KolkoIKrzyzyk.Test.dll
 c:\users\sesh\documents\visual studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Test\obj\Debug\KolkoIKrzyzyk.Test.pdb
+C:\Users\sesh\Documents\Visual Studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Test\bin\Debug\KolkoIKrzyzyk.Logic.dll
+C:\Users\sesh\Documents\Visual Studio 2017\Projects\KolkoIKrzyzyk\KolkoIKrzyzyk.Test\bin\Debug\KolkoIKrzyzyk.Logic.pdb

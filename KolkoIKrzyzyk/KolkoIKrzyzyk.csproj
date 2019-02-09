@@ -93,5 +93,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KolkoIKrzyzyk.Logic\KolkoIKrzyzyk.Logic.csproj">
+      <Project>{76ea9b61-171e-4a3b-ade2-ac92c49b7daf}</Project>
+      <Name>KolkoIKrzyzyk.Logic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KolkoIKrzyzyk.Test\KolkoIKrzyzyk.Test.csproj">
+      <Project>{526a395d-8753-4bb3-915e-eb5ba5e737da}</Project>
+      <Name>KolkoIKrzyzyk.Test</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

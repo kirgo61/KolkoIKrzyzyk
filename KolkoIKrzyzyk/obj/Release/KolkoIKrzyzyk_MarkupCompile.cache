@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\mholl\Source\Repos\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Debug\
+C:\Users\mholl\Source\Repos\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Release\
 KolkoIKrzyzyk
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\mholl\Source\Repos\KolkoIKrzyzyk\KolkoIKrzyzyk\App.xaml
 11151548125
 
-9-140126962
-15-241979343
+5-2017746502
+15-2070982441
 MainWindow.xaml;
 
 True

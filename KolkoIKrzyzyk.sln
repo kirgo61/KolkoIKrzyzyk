@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KolkoIKrzyzyk.Logic", "Kolk
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KolkoIKrzyzyk.Test", "KolkoIKrzyzyk.Test\KolkoIKrzyzyk.Test.csproj", "{526A395D-8753-4BB3-915E-EB5BA5E737DA}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KolkoIKrzyzykInstalator", "KolkoIKrzyzykInstalator\KolkoIKrzyzykInstalator.vdproj", "{B3E93218-E20A-4C64-95CF-BB9550B375DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,8 @@ Global
 		{526A395D-8753-4BB3-915E-EB5BA5E737DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{526A395D-8753-4BB3-915E-EB5BA5E737DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{526A395D-8753-4BB3-915E-EB5BA5E737DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3E93218-E20A-4C64-95CF-BB9550B375DF}.Debug|Any CPU.ActiveCfg = Debug
+		{B3E93218-E20A-4C64-95CF-BB9550B375DF}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
